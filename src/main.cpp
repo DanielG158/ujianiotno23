@@ -5,7 +5,7 @@
 
 // Pin definitions
 const int DHT_PIN = 4; // DHT11 sensor
-const int LED_PIN = 14; //  LED
+const int LED_PIN = 13; //  LED
 const int LIGHT_SENSOR_ADDRESS = 0x23; // I2C address of light sensor
 
 // Sensor type definitions
